@@ -1,2 +1,0 @@
-# bicolmail
-news publication site
